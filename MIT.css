@@ -1,0 +1,50 @@
+body {
+  background: url("MIT.jpg") no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: green;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+marquee {
+  width: 100%;
+  white-space: nowrap;
+  color: white;
+  font-size: 20px;
+}
+.menu {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
+.oval-menu {
+  background-color: green;
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding: 0 10px 0 10px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 40px;
+}

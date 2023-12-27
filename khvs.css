@@ -1,0 +1,10 @@
+.khvs {
+  background-color: ksvs;
+  color: green;
+  background-color: green;
+  padding: 20px;
+  margin: 10px;
+  border: 2px solid green; /* 添加框框 */
+  border-radius: 8px; /* 可以根據需要調整邊框的圓角程度 */
+  text-align: center;
+}
